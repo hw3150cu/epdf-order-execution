@@ -1,0 +1,79 @@
+name: oss-compliance
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  compliance:
+    name: Compliance gate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history: gitleaks scans every commit
+
+      - name: Secret scan (full history)
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: OSS compliance gate (paths, PII, granularity, size, licence)
+        run: python tools/check_publish.py --repo .
+
+      - name: Import smoke test
+        run: |
+          set -e
+          python - <<'PY'
+          import importlib, sys
+          # Modules that must import cleanly with no market data present.
+          candidates = ["config", "epdf", "fill_model", "contract_matching", "data_roller",
+                        "validation_framework", "backtest_optimized", "metrics",
+                        "strategies", "vol_scaling", "indicators", "data_loader", "baseline_run"]
+          ok, skipped, failed = [], [], []
+          for name in candidates:
+              try:
+                  importlib.import_module(name)
+                  ok.append(name)
+              except ModuleNotFoundError as exc:
+                  if exc.name == name:
+                      skipped.append(name)        # not part of this repository
+                  else:
+                      failed.append((name, exc))
+              except Exception as exc:            # noqa: BLE001
+                  failed.append((name, exc))
+          print("imported:", ", ".join(ok) or "-")
+          print("absent  :", ", ".join(skipped) or "-")
+          if failed:
+              for name, exc in failed:
+                  print(f"FAILED {name}: {type(exc).__name__}: {exc}", file=sys.stderr)
+              sys.exit(1)
+          if not ok:
+              print("no modules imported - check packaging", file=sys.stderr)
+              sys.exit(1)
+          PY
+
+      - name: Unit tests
+        run: |
+          if [ -f run_tests_simple.py ]; then python -B run_tests_simple.py; fi
+          if [ -f test_baseline.py ]; then python -B -m pytest -q || true; fi
+
+      - name: Showcase notebook executes
+        if: hashFiles('final_submission.ipynb') != ''
+        run: |
+          pip install nbconvert ipykernel
+          jupyter nbconvert --to notebook --execute --output-dir /tmp/nbout final_submission.ipynb

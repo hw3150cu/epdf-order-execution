@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.png binary
+*.npz binary
+*.pkl binary
+*.pdf binary
+*.pptx binary
+*.xlsx binary
+
+*.ipynb linguist-documentation
+*.md   linguist-documentation

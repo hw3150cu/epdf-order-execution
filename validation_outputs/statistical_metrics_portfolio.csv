@@ -1,0 +1,2 @@
+scope,n_days,total_pnl_econ,mean_daily_pnl_econ,median_daily_pnl_econ,daily_sharpe,daily_sortino,max_drawdown_econ,profit_factor,worst_5pct_daily_pnl_econ,pnl_to_mdd,positive_day_pct,sign_test_pvalue,wilcoxon_signed_rank_pvalue
+portfolio,443,112106896.76172453,253062.97237409602,98959.42257603027,6.129307041601223,4.192469437111129,-5460830.4163054675,16.745446613381784,5398.515784995074,20.529276358222933,97.06546275395034,3.0887394076023126e-109,3.329585108229818e-66

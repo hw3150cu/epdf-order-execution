@@ -1,0 +1,5 @@
+asset,symbol,official_source,url,exact_place
+JPY - Japanese Yen,6J,CME FX Futures,https://www.cmegroup.com/trading/why-futures/welcome-to-cme-fx-futures.html,"Trade the Currencies You Want table, Japanese Yen row: Minimum Tick Size $0.0000005 per yen increments; Dollar Value of a Tick $6.25."
+GBP - British Pound,6B,CME British Pound Product Overview,https://www.cmegroup.com/education/lessons/british-pound-product-overview,"The Contract section: each contract represents 62,500 British pounds with minimum price fluctuation .0001 per British pound increments."
+HeatingOil,HO,CME Heating Oil Product Overview,https://www.cmegroup.com/education/courses/introduction-to-energy/introduction-to-refined-products/heating-oil-product-overview.html,"The Contract section: minimum price fluctuation $.0001 per gallon, or $4.20 per contract."
+EuroStoxx,FESX,Eurex Circular 007/21,https://www.eurex.com/ex-en/find/circulars/circular-2407638,Introduction and futures tick table: FESX outright tick changed from 1.0 to 0.5 index points effective 2021-06-21; tick value changed to EUR 5.

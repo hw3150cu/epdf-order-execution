@@ -1,0 +1,8 @@
+asset,current_selector,current_coverage_pct,current_inside_ohlc_pct,best_selector,best_coverage_pct,best_inside_ohlc_pct,best_ambiguous_inside_pct,front_month_best_selector,front_month_inside_ohlc_pct,front_month_coverage_pct,front_month_ambiguous_inside_pct,front_month_default_supported
+EuroStoxx,min_distance,98.58490566037736,98.58490566037736,inside_high_volume,98.58490566037736,98.58490566037736,0.0,volume_front_month,98.11320754716981,98.58490566037736,0.0,False
+GBP - British Pound,min_distance,100.0,100.0,inside_high_volume,100.0,100.0,5.753968253968254,volume_front_month,100.0,100.0,5.753968253968254,True
+German Bunds - German Government Bonds,min_distance,99.836867862969,99.836867862969,inside_high_volume,99.836867862969,99.836867862969,0.0,volume_front_month,98.69494290375204,99.836867862969,0.0,False
+Gold,min_distance,99.84326018808777,99.13793103448276,min_distance,99.84326018808777,99.13793103448276,0.07836990595611286,calendar_front_month,93.49529780564264,99.84326018808777,0.07836990595611286,False
+HeatingOil,min_distance,94.82758620689656,86.89655172413794,min_distance,94.82758620689656,86.89655172413794,0.0,volume_front_month,79.3103448275862,94.82758620689656,0.0,False
+JPY - Japanese Yen,min_distance,99.87562189054727,99.87562189054727,inside_high_volume,99.87562189054727,99.87562189054727,0.0,volume_front_month,99.25373134328358,99.87562189054727,0.0,False
+Nasdaq,min_distance,99.81515711645102,99.81515711645102,inside_high_volume,99.81515711645102,99.81515711645102,15.480591497227357,volume_front_month,99.35304990757855,99.81515711645102,15.480591497227357,False

@@ -1,0 +1,757 @@
+asset,contract_selector,tick_source,tau,fill_policy,remainder_policy,status,total_pnl_vs_aiagent,beat_ai,robustness_label,rationale
+Nasdaq,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,default,best_or_benchmark,existing_provisional,1895483.950083866,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,default,best_or_benchmark,corrected_raw_run,1895483.950083866,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Nasdaq,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,default,best_or_benchmark,existing_provisional,3687.421053224849,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,default,best_or_benchmark,corrected_raw_run,3687.421053224849,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+German Bunds - German Government Bonds,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,default,best_or_benchmark,existing_provisional,1287884.8258709614,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,default,best_or_benchmark,corrected_raw_run,1261336.7525636726,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+EuroStoxx,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,default,best_or_benchmark,existing_provisional,203711.79942889867,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,default,best_or_benchmark,corrected_raw_run,203711.79942889867,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+Gold,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,default,best_or_benchmark,existing_provisional,50484.95978951345,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,default,best_or_benchmark,corrected_raw_run,55024.47416504946,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+HeatingOil,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,default,best_or_benchmark,existing_provisional,16.82512309542507,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,default,best_or_benchmark,corrected_raw_run,4012.50945955474,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+JPY - Japanese Yen,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,default,best_or_benchmark,existing_provisional,1727.173462486753,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,default,best_or_benchmark,corrected_raw_run,15038.933223250518,True,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,current,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,calendar_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,legacy,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,15,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,30,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,strict_next_bar,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,strict_next_bar,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,strict_next_bar,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,default,best_or_benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,default,benchmark,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
+GBP - British Pound,volume_front_month,raw,45,default,close,requires_rerun,,,fragile win,Corrected raw-tick tau45 run wins; selector/tau/fill/remainder robustness grid remains pending.
